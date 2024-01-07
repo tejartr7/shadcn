@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Header from '../app/header/Page';
 import data from '../app/data/data';
 import Link from 'next/link';
-import { Skeleton } from '@/components/ui/skeleton';
+import { Skeleton } from '../components/ui/skeleton';
 import { useState, useEffect } from 'react';
 import {
   Card,
